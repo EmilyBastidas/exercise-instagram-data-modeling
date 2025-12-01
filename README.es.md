@@ -30,7 +30,7 @@ Vamos a crear el Diagrama de relación de entidad para la base de datos de Insta
 
 3. Para generar un diagrama de la base de datos tantas veces como sea necesario `$ pipenv run diagram`
 
-4. Una vez creado el archivo `diagram.png` en la raiz del proyecto, abrelo para ver la representación UML de tu base de datos.
+4. Una vez creado el archivo `diagram.png` en la raíz del proyecto, ábrelo para ver la representación UML de tu base de datos.
 
 ## 📝 Instrucciones
 
